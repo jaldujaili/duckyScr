@@ -26,7 +26,8 @@ Its not too hards since the command list can be found [here](https://github.com/
 >DELAY 3000 <br> GUI r <br> DELAY 500 <br> STRING notepad <br> DELAY 500 <br> ENTER <br> DELAY 750 <br> STRING Hello World!<br> ENTER
 
 This gets saved in a plain text file!
-
+<br>
+OR you can view and use the many ducky scripts from [here](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)
 ## Step 4
 Its time to compile your ducky script. Here you would transfer the text file to your microsd card that will be used inside of your ducky.
 
